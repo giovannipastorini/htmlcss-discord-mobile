@@ -1,4 +1,11 @@
+body{
+    width: 512px;
+    border: dotted 1px black;
+}
 
+#header-banner{
+    max-width: 512px;
+}
 
 
 
