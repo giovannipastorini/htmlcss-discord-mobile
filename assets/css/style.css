@@ -53,6 +53,28 @@ button{
     margin-right: 3rem;
 }
 
+.card-title{
+    margin-top: 2rem;
+    color: white;
+    font-family: 'Sigmar';
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: left;
+    line-height: 2.5rem;
+
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 1rem;
+}
+
+.card{
+    background-color: #5d64d1;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 3rem;
+    border-radius: 30px;
+}
+
 /*
 non dimenticare di passare dal validator
 */
