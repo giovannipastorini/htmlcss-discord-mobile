@@ -9,12 +9,15 @@ body{
 }
 
 #maxi-container{
+    width: 512px;
     background-color: #191d7b;
 }
 
+/*
 #banner{
     max-width: 512px;
 }
+*/
 
 #banner-img{
     max-width: 512px;
@@ -51,10 +54,14 @@ body{
 button{
     margin-left: 3rem;
     margin-right: 3rem;
+    border-radius: 30px;
+    padding-bottom: 60px;
+    padding-top: 20px;
 }
 
+
 .card-title{
-    margin-top: 2rem;
+    margin-top: 4rem;
     color: white;
     font-family: 'Sigmar';
     font-size: 40px;
@@ -73,6 +80,15 @@ button{
     margin-right: 2rem;
     margin-top: 3rem;
     border-radius: 30px;
+}
+
+.card-text{
+    color: white;
+    font-family: 'DM Sans';
+    text-align: left;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 0;
 }
 
 /*
