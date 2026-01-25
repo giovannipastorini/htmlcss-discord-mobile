@@ -48,7 +48,10 @@ body{
     
 }
 
-
+button{
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
 
 /*
 non dimenticare di passare dal validator
