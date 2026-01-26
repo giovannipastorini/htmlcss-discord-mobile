@@ -52,7 +52,7 @@ button{
 }
 
 
-.card-title{
+.item-title{
     margin-top: 4rem;
     color: white;
     font-family: 'Sigmar';
@@ -75,7 +75,7 @@ button{
     border-radius: 30px;
 }
 
-.card-text{
+.item-text{
     color: white;
     font-family: 'DM Sans';
     text-align: left;
@@ -84,7 +84,7 @@ button{
     margin-top: 0;
 }
 
-.video-area{
+.item-area{
     margin-left: 3rem;
     margin-bottom: 3rem;
 }
@@ -93,6 +93,24 @@ button{
     width: 351px;
     border-radius: 30px;
 
+}
+
+.card-image{
+    width: 351px;
+    border-radius: 30px;
+}
+
+.card-bonus{
+    background-image: url("../img/background.png"); 
+    background-size: cover;
+    
+    background-repeat: no-repeat;
+    
+    
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 3rem;
+    border-radius: 30px;
 }
 
 /*
