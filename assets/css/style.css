@@ -5,6 +5,7 @@
 body{
     width: 512px;
     border: dotted 1px black;
+    margin: 0 auto;
     
 }
 
@@ -67,6 +68,7 @@ button{
 
 .card{
     background-color: #5d64d1;
+    
     margin-left: 2rem;
     margin-right: 2rem;
     margin-top: 3rem;
@@ -90,6 +92,7 @@ button{
 .card-video{
     width: 351px;
     border-radius: 30px;
+
 }
 
 /*
