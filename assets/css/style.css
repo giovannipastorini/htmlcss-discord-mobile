@@ -13,21 +13,12 @@ body{
     background-color: #191d7b;
 }
 
-/*
 #banner{
-    max-width: 512px;
-}
-*/
-
-#banner-img{
     max-width: 512px;
 }
 
 
 #titolo{
-    /*
-    background-color: #191d7b; 
-    */
     margin-top: 5rem;
     color: white;
     font-family: 'Sigmar';
@@ -89,6 +80,16 @@ button{
     margin-left: 3rem;
     margin-right: 3rem;
     margin-top: 0;
+}
+
+.video-area{
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+}
+
+.card-video{
+    width: 351px;
+    border-radius: 30px;
 }
 
 /*
